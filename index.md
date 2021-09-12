@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# *JavaScripts* Projects
+## by [UnitedCatdom](https://unitedcatdom.itch.io/)
 
-You can use the [editor on GitHub](https://github.com/CuteBladeYT/JavaScripts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What you'll find there?
+Of course, ***"JavaScripts"***.
+Mostly just a scripts for [Tampermonkey](https://www.tampermonkey.net/), etc.
+[Here](javascripts.md) is the list of all scripts.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CuteBladeYT/JavaScripts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [UC's](https://unitedcatdom.itch.io/) Socials
+- [YouTube](https://www.youtube.com/channel/UCA3-ksO9eaTo-xYN07Ek7Ww)
+- [Discord](https://discord.com/users/540104316103688193)
+- [Twitch](https://www.twitch.tv/cuteblade_)
+- [Twitter](https://twitter.com/blade_cute)
+- [itch.io](https://unitedcatdom.itch.io/)
