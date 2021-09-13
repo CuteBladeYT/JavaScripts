@@ -5,8 +5,8 @@
 
 ### What you'll find there?
 Of course, ***"JavaScripts"***.
-Mostly just a scripts for [Tampermonkey](https://www.tampermonkey.net/), etc.
-[Here](javascripts.md) is the list of all scripts.
+Mostly just a scripts for [Tampermonkey](https://www.tampermonkey.net/) etc.
+[Here](https://github.com/CuteBladeYT/JavaScripts/tree/projects) is the list of all scripts.
 
 ---
 
