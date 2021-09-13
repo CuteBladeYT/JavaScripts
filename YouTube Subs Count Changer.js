@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         YouTube Subs Cheat
-// @version      2.2.0
+// @version      3.1.0
 // @description  Cheats that adds subs to any channel you want when you press keybind specified by you!
 // @author       UnitedCatdom
 // @match        https://www.youtube.com/c/*
+// @match        https://www.youtube.com/channel/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com/
 // @grant        none
 // ==/UserScript==
