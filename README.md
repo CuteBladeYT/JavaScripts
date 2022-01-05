@@ -1,3 +1,3 @@
-# JavaScripts Projects
+# Better JS
 
-Here you'll find ALL those projects.
+Some additions / helpers for JavaScript as language.
