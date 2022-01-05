@@ -28,4 +28,10 @@ function qs(obj, sel) {
             now you just need to type any int > 0 (higher than zero), or -1 to disable.
             (document.querySelectorAll("element"))
 
+
+
+  How to include in project:
+    Inside HTML file include `<script src="path to this file"></script>`
+    then you are ready to go.
+ 
 */
