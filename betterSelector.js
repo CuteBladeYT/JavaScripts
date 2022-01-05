@@ -22,7 +22,7 @@ function qs(obj, sel) {
 
 
 
-  Usage: qs(object, selector)
+  Usage:    qs(object, selector)
   object:   HTML Element's CSS Path. i.e. ".class #id element.withClass#andId"
   selector: normally you would use document.querySelectorAll("element")[4], for example,
             now you just need to type any int > 0 (higher than zero), or -1 to disable.
